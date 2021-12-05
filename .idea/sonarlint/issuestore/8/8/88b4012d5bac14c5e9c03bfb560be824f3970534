@@ -1,0 +1,7 @@
+
+U	java:S106%"9Replace this use of System.out or System.err by a logger.(«ãÒÄ8í¿¥æØ/
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8–»¨æØ/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ûƒÍ§şÿÿÿÿ
+g
+java:S2095"EUse try-with-resources or close this "Scanner" in a "finally" clause.(“õÏ™ûÿÿÿÿ8ÌÁ¥æØ/
