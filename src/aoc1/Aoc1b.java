@@ -5,6 +5,7 @@ import java.io.FileNotFoundException;
 import java.util.ArrayList;
 import java.util.Scanner;
 
+// Testing
 public class Aoc1b {
     public static void main(String[] args) throws FileNotFoundException {
         ArrayList<Integer> list = new ArrayList<Integer>();
